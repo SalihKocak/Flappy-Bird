@@ -63,4 +63,4 @@ Ekran Görüntüleri
 
 İyi oyunlar!
 
-requirements.txt içeriği
+
